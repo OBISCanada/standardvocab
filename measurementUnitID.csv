@@ -1,0 +1,24 @@
+Type of measurement,measurementUnit,measurementUnitID,comments
+concentration,parts per thousand,http://vocab.nerc.ac.uk/collection/P06/current/UPPT/,
+concentration,Micromoles per litre,http://vocab.nerc.ac.uk/collection/P06/current/UPOX/,
+concentration,Milligrams per litre,http://vocab.nerc.ac.uk/collection/P06/current/UMGL/,
+concentration,number per cubic metre,"	http://vocab.nerc.ac.uk/collection/P06/current/UPMM/",
+direction,Degrees,http://vocab.nerc.ac.uk/collection/P06/current/UAAA/,A degree of arc or arc degree is a unit of measurement of a plane angle defined so that a full rotation is 360 degrees.
+distance/length,Metres,http://vocab.nerc.ac.uk/collection/P06/current/ULAA/,
+distance/length,millimeters,http://vocab.nerc.ac.uk/collection/P06/current/UXMM/,
+distance/length,centimeters,http://vocab.nerc.ac.uk/collection/P06/current/ULCM/,
+distance/length,micrometres,http://vocab.nerc.ac.uk/collection/P06/current/UMIC/,
+distance/length,feet,,no ID
+distance/length,nautical miles ,,no ID
+distance/length,kilometres,http://vocab.nerc.ac.uk/collection/P06/current/ULKM/,
+speed,Metres per minute,http://vocab.nerc.ac.uk/collection/P06/current/UMMM/,
+speed,knots,"
+http://vocab.nerc.ac.uk/collection/P06/current/UKNT/",
+temperature,degrees celsius,http://vocab.nerc.ac.uk/collection/P06/current/UPAA/,
+time,Minutes,http://vocab.nerc.ac.uk/collection/P06/current/UMIN/,
+time,years,http://vocab.nerc.ac.uk/collection/P06/current/UYRS/,
+time,hours,http://vocab.nerc.ac.uk/collection/P06/current/UHOR/,
+volume,cubic metres,http://vocab.nerc.ac.uk/collection/P06/current/MCUB/,
+weight,kilograms,http://vocab.nerc.ac.uk/collection/P06/current/KGXX/,
+weight,grams,http://vocab.nerc.ac.uk/collection/P06/current/UGRM/,
+weight,milligrams,http://vocab.nerc.ac.uk/collection/P06/current/MGRM/,
